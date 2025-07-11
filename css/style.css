@@ -148,3 +148,32 @@ nav ul li {
     margin-top: 50px;
     border-radius: 48px;
 }
+
+/* last Section */
+
+.touch {
+    display: flex;
+    align-items: center;    
+}
+
+.let{
+    font-size: 97;
+    font-style: bold;
+    width: 528;
+    height: 232;
+}
+
+main input[type="text"], main textarea {
+    width: 497px;
+    height: 70px;
+    gap: 10px;
+    border-radius: 10px;
+    color: #131212;
+    display: block;
+    padding: 20px 32px;
+    margin-bottom: 51px;
+    border: none;
+}
+
+/* fotter */
+
