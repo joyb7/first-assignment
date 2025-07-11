@@ -55,3 +55,62 @@ nav ul li {
     color: black;
     margin-top: 20px;
 }
+
+.section {
+    display: flex;
+    justify-content: space-between;
+    margin: 200px 200px 200px 200px;
+}
+
+.section-title {
+    font-size: 42px;
+    font-weight: 517;
+    color: bold;
+    line-height: auto;
+}
+
+.section-description {
+    font-style: normal;
+    font-size: 24px;
+    color: #1E1E1E;
+    margin-top: 23px;
+}
+
+.wcmini {
+    width: 403px;
+    height: 328px;
+    border-radius: 48px;
+}
+
+.box {
+    margin: 0px 200px 200px 200px;
+    background-color: #d9d9ec;
+    border-radius: 24px;
+}
+.joined {
+    text-align: center;
+    margin-top: 50px;
+    padding: 50px 0px 50px 0px;
+}
+
+.stats {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 200px 50px 200px;
+    
+}
+
+.stat-number {
+    color: #4E47FF;
+    font-size: 80px;
+    font-style: bold;
+
+}
+
+.stat-description {
+    font-size: 20px;
+    color: #000000;
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
